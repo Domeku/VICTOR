@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|c:\\users\\asisc\\onedrive\\documentos\\cafam\\proyectos de programacion\\reportes\\reportes\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|solutionrelative:reportes\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|c:\\users\\asisc\\onedrive\\documentos\\cafam\\proyectos de programacion\\reportes\\reportes\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|solutionrelative:reportes\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|c:\\users\\asisc\\onedrive\\documentos\\cafam\\proyectos de programacion\\reportes\\reportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|solutionrelative:reportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|c:\\users\\asisc\\onedrive\\documentos\\cafam\\proyectos de programacion\\reportes\\reportes\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\reportes\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|solutionrelative:reportes\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pagos.cs",
               "DocumentMoniker": "C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\REPORTES\\Pagos.cs",
               "RelativeDocumentMoniker": "REPORTES\\Pagos.cs",
@@ -46,17 +46,16 @@
               "ToolTip": "C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\REPORTES\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "REPORTES\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-03-05T16:03:22.976Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-03-05T16:03:22.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\REPORTES\\Form1.cs",
-              "RelativeDocumentMoniker": "REPORTES\\Form1.cs",
-              "ToolTip": "C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\REPORTES\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "REPORTES\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "FrmReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\REPORTES\\FrmReporte.cs",
+              "RelativeDocumentMoniker": "REPORTES\\FrmReporte.cs",
+              "ToolTip": "C:\\Users\\asisc\\OneDrive\\Documentos\\CAFAM\\Proyectos de programacion\\REPORTES\\REPORTES\\FrmReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "REPORTES\\FrmReporte.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T15:56:38.127Z",
               "EditorCaption": " [Dise\u00F1o]"

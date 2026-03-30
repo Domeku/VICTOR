@@ -135,3 +135,6 @@ namespace SistemaPrestamos.Calculos
         }
     }
 }
+
+// Módulo de cálculos financieros - Juan
+// Versión 1.0

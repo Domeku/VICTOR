@@ -1,8 +1,15 @@
 ﻿using System;
-
-public class Class1
+namespace SistemaPrestamos.Dominio
 {
-	public Class1()
-	{
-	}
+    public class Retraso
+    {
+        public int Id { get; set; }
+        public int FinanciamientoId { get; set; }
+        public int Cantidad { get; set; }
+
+        public bool EsMoroso()
+        {
+            return Cantidad >= 3;
+        }
+    }
 }

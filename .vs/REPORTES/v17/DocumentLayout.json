@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damian\\Desktop\\Reportess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|c:\\users\\damian\\desktop\\reportess\\reportes\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|solutionrelative:reportes\\frmreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|C:\\Users\\Damian\\Desktop\\Reportess\\reportes\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|solutionrelative:reportes\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|C:\\Users\\Damian\\Desktop\\Reportess\\reportes\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C9623BBD-FFB8-4EBB-8F8B-57C2FFBF5A69}|REPORTES\\REPORTES.csproj|solutionrelative:reportes\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Reportess\\REPORTES\\Pagos.cs",
+              "RelativeDocumentMoniker": "REPORTES\\Pagos.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Reportess\\REPORTES\\Pagos.cs",
+              "RelativeToolTip": "REPORTES\\Pagos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:07:16.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Reportess\\REPORTES\\Model1.edmx",
+              "RelativeDocumentMoniker": "REPORTES\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Reportess\\REPORTES\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "REPORTES\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-03-05T16:03:22.976Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmReporte.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Reportess\\Reportes\\FrmReporte.cs",
+              "RelativeDocumentMoniker": "Reportes\\FrmReporte.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Reportess\\Reportes\\FrmReporte.cs [Design]",
+              "RelativeToolTip": "Reportes\\FrmReporte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:56:38.127Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

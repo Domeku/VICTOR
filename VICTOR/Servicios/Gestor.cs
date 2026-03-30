@@ -173,3 +173,5 @@ namespace SistemaPrestamos.Servicios
         }
     }
 }
+
+// Capa de servicios y validaciones - Juan

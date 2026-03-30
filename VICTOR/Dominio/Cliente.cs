@@ -18,3 +18,5 @@ namespace SistemaPrestamos.Dominio
         }
     }
 }
+
+// Entidad principal del sistema - Juan

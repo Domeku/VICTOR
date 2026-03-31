@@ -1,0 +1,47 @@
+CREATE DATABASE PrestamosDB;
+GO
+
+USE PrestamosDB;
+
+CREATE TABLE Clientes(
+    Id INT PRIMARY KEY IDENTITY,
+    NombreCompleto VARCHAR(100) NOT NULL,
+    Correo VARCHAR(100),
+    Telefono VARCHAR(20),
+    Direccion VARCHAR(200),
+    Garantia VARCHAR(100) NOT NULL,
+    Sueldo DECIMAL(18,2) NOT NULL,
+    EsMoroso BIT DEFAULT 0
+);
+
+CREATE TABLE Prestamos(
+    Id INT PRIMARY KEY IDENTITY,
+    ClienteId INT NOT NULL,
+    Monto DECIMAL(18,2) NOT NULL,
+    Meses INT NOT NULL,
+    InteresGenerado DECIMAL(18,2),
+    MontoTotal DECIMAL(18,2),
+    FechaPrestamo DATE DEFAULT GETDATE(),
+
+    FOREIGN KEY (ClienteId) REFERENCES Clientes(Id)
+);
+
+CREATE TABLE Pagos(
+    Id INT PRIMARY KEY IDENTITY,
+    PrestamoId INT NOT NULL,
+    MontoAnterior DECIMAL(18,2),
+    InteresPagado DECIMAL(18,2),
+    MontoAbonado DECIMAL(18,2),
+    NuevoMonto DECIMAL(18,2),
+    FechaPago DATE DEFAULT GETDATE(),
+
+    FOREIGN KEY (PrestamoId) REFERENCES Prestamos(Id)
+);
+
+CREATE TABLE Moras(
+    Id INT PRIMARY KEY IDENTITY,
+    PrestamoId INT NOT NULL,
+    Cantidad INT DEFAULT 0,
+
+    FOREIGN KEY (PrestamoId) REFERENCES Prestamos(Id)
+);
